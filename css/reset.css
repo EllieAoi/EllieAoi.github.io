@@ -1,0 +1,13 @@
+* { /* To reset browser original config */
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+ul { /* To reset the lists styles */
+    list-style: none;
+}
+
+a { /* To reset the blue text */
+    text-decoration: none;
+}
